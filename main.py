@@ -67,6 +67,3 @@ while play:
 clear()
 print(logo1)
 print(goodbye)
-# Next TODOs:
-# 1. clear screen and show guessed list.
-# 2. play again? 
